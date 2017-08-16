@@ -76,7 +76,10 @@ nav label {
   padding: 0 0 10px 30px;
 }
 
-
+nav label div {
+  margin: 10px 0 0 0;
+  display: none;
+}
 
 
 
