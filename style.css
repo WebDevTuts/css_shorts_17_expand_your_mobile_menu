@@ -81,6 +81,10 @@ nav label div {
   display: none;
 }
 
+nav label input {
+  display: none;
+}
+
 nav label input:checked ~ div {
   display: block;
 }
